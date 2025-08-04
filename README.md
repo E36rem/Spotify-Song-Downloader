@@ -11,7 +11,7 @@ A personal tool for downloading songs from Spotify.
 
 ## Requirements
 
-- Python 3.x
+- `Python 3.x`
 - `spotipy`
 - `ytmusicapi`
 - `yt_dlp`
